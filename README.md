@@ -8,7 +8,7 @@
 
   #### Inflation
 
-  - [Encyclopaedia Inflationaris - Jerome Martin, Christophe Ringeval, Vincent Vennin -2013](https://arxiv.org/abs/1303.3787)
+   - [Encyclopaedia Inflationaris - Jerome Martin, Christophe Ringeval, Vincent Vennin -2013](https://arxiv.org/abs/1303.3787)
 
 ### Quantm Field Theory in Curved Spacetime
 
