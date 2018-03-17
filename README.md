@@ -24,6 +24,12 @@
 
 - [Bayesian Methods in Cosmology -Roberto Trotta - 2017](https://arxiv.org/abs/1701.01467)
 
+### Philosophy of Cosmology
+
+- [Philosophy of Cosmology - Chris Smeenk - 2013](https://philpapers.org/archive/SMEPOC.pdf)
+
+- [Issues in the Philosophy of Cosmology - George Ellis - 2006](https://arxiv.org/abs/astro-ph/0602280)
+
 ### Quantm Field Theory in Curved Spacetime
 
  - [Lectures on quantum field theory in curved spacetime - Christopher J. Fewster - 2008](https://www.mis.mpg.de/preprints/ln/lecturenote-3908.pdf)
