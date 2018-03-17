@@ -1,4 +1,4 @@
-- ### Cosmology
+### Cosmology
 
   - [Lecture Notes in Cosmology - Oliver F. Piattella - 2018](https://arxiv.org/abs/1803.00070)
 
@@ -6,7 +6,7 @@
 
   - [Dark Matter and Dark Energy - Julien Lesgourgues - 2008](https://lesgourg.github.io/courses/DMDE_EPFL.pdf)
 
-  - #### Inflation
+  * #### Inflation
 
   [Encyclopaedia Inflationaris - Jerome Martin, Christophe Ringeval, Vincent Vennin -2013](https://arxiv.org/abs/1303.3787)
 
